@@ -12,5 +12,13 @@
 Simplify the sum of two monomials.
             </description>
         </outcome>
+        <outcome>
+            <title>Sample Outcome 2</title>
+            <slug>EX2</slug>
+            <path>outcomes/EX2</path>
+            <description>
+Another outcome
+            </description>
+        </outcome>
     </outcomes>
 </bank>
