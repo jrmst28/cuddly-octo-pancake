@@ -5,19 +5,11 @@
     <url>https://checkit.clontz.org</url>
     <outcomes>
         <outcome>
-            <title>Sample Outcome</title>
-            <slug>EX1</slug>
-            <path>outcomes/EX1</path>
+            <title>Derivatives of Powers and exponentials</title>
+            <slug>D1</slug>
+            <path>outcomes/D1</path>
             <description>
-Simplify the sum of two monomials.
-            </description>
-        </outcome>
-        <outcome>
-            <title>Sample Outcome 2</title>
-            <slug>EX2</slug>
-            <path>outcomes/EX2</path>
-            <description>
-Another outcome
+Derivatives of Powers and exponentials
             </description>
         </outcome>
     </outcomes>
